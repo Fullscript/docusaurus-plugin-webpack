@@ -1,0 +1,9 @@
+{
+  "name": "@fullscript/docusaurus-plugin-webpack",
+  "version": "1.0.0",
+  "description": "A Docusaurus plugin for modifying the underlying webpack config",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "author": "Ryan O'Connor <charle692@gmail.com>",
+  "license": "MIT"
+}
